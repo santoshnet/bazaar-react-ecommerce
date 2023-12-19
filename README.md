@@ -12,7 +12,8 @@
 - In Item page user can add quantity of item to cart instead of click add more and more
 
 ## Demo
-  <video src="/screenshot/demo.webm">
+  <video src='./screenshot/demo.webm' width=180></video>
+
 
 ## 🚀 What technologies were used?
 
