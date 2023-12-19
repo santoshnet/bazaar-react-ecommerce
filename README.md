@@ -12,8 +12,8 @@
 - In Item page user can add quantity of item to cart instead of click add more and more
 
 ## Demo
-  <video src='./screenshot/demo.webm' width=180></video>
 
+[demo](https://github.com/santoshnet/bazaar-react-ecommerce/assets/17794605/9b9de03c-766e-4a0a-9f72-11cc6f453c7d)
 
 ## 🚀 What technologies were used?
 
